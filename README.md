@@ -8,6 +8,6 @@ DB2, MySQL, Oracle, PostgreSQL, SQLite, MS SQL Server, MS Access DB, Sybase.
 
 >> MongoDB is a document-oriented NoSQL database used for high volume data storage. 
 
-### DBMS (Database Management System)
+### DBMS (Database Management System):
 A database management system (DBMS) is software to create and manage databases, allowing users to create, read, update and delete data in a database.
 
