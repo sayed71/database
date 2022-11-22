@@ -11,4 +11,5 @@ Example:
 ### DBMS (Database Management System):
 A database management system (DBMS) is software to create and manage databases, allowing users to create, read, update and delete data in a database.
 
+## SQL Command 
 ![image](https://user-images.githubusercontent.com/83280369/202865745-d2545938-e743-4b17-a80f-011c2c0d64c3.png)
